@@ -1,3 +1,4 @@
+console.log("hello world");
 //comments\
 //variables
 //don't do this!
